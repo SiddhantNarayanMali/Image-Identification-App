@@ -1,0 +1,26 @@
+body
+{
+    color: rebeccapurple;
+    background-color: lightgoldenrodyellow;
+}
+
+.heading
+{
+    width: 80%;
+    font-size: 22px;
+}
+
+#camera
+{
+    border: 2px dashed rebeccapurple;
+    width: 350px;
+    height: 300;
+
+}
+
+.name-of-objects,#Object,#Accuracy
+{
+    color: mediumblue;
+}
+
+
